@@ -15,7 +15,7 @@
           style="max-height: 75vh; object-fit: cover;">
       </div>
       <div class="carousel-item">
-        <img src="{{ asset('/lib/img/barito.jpg') }}" class="d-block w-100 h-100 mx-auto" alt="Barito"
+        <img src="{{ asset('/lib/img/tapin.jpg') }}" class="d-block w-100 h-100 mx-auto" alt="Barito"
           style="max-height: 75vh; object-fit: cover;">
       </div>
     </div>
