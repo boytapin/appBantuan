@@ -15,7 +15,7 @@
   <div>
     <div class="sidebar p-4 bg-success menu" id="sidebar">
       <img src="{{ asset('/lib/img/logo.png') }}" width="130" alt="">
-      <h4 class="mb-5 text-white">KAB. BATOLA</h4>
+      <h4 class="mb-5 text-white">KAB. TAPIN</h4>
       <li>
         <a class="text-white" href="{{ route('penduduk.index') }}">
           <i class="bi bi-book mr-2"></i>
